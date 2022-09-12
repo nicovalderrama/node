@@ -1,0 +1,14 @@
+{
+  "name": "04-tareas-hacer",
+  "version": "1.0.0",
+  "description": "Proyecto de tareas por hacer en consola",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Nicolas Valderrama",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "uuid": "^9.0.0"
+  }
+}
